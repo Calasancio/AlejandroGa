@@ -1,0 +1,37 @@
+
+table{ 
+	border-collapse:collapse;
+	font-family: arial;
+}
+th, td{
+	border:solid 1px black;
+	padding:5px;
+	background-color:gray;
+}
+.verde{
+	color:green;
+}
+h2{
+	background-color:green;
+}
+h1{
+	font-size: 50px;
+}
+h2{
+	font-size: 30px;
+}
+h3{
+	font-size: 20px;
+}
+body {
+  background: #f2f2f2;
+}
+html {height: 190%;}body {background-image: linear-gradient(#FFFFFF, rgb(300, 222, 89));}
+.box {
+  background: radial-gradient(circle at top left, #fdbb2d, #22c1c3);  
+  text-align:center;
+  color: white;
+  padding: 6rem 1rem;
+  margin: 4rem;
+  font-size: 100px;
+}
